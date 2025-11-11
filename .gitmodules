@@ -4,3 +4,6 @@
 [submodule "kicad6-libraries"]
 	path = kicad6-libraries
 	url = https://github.com/rusefi/kicad6-libraries
+[submodule "DIYEFI-ECU"]
+	path = DIYEFI-ECU
+	url = https://github.com/denimboi96/DIYEFI-ECU.git
